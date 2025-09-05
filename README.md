@@ -39,8 +39,7 @@ Backend Engineer with 8+ years of experience building scalable web and mobile ap
 <div align="center">
   
 ![](https://github-readme-stats.vercel.app/api?username=adphillips2017&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)  
-![](https://nirzak-streak-stats.vercel.app/?user=adphillips2017&theme=dracula&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=adphillips2017&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://nirzak-streak-stats.vercel.app/?user=adphillips2017&theme=dracula&hide_border=false)
 
 </div>
 
