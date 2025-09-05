@@ -35,11 +35,14 @@ Backend Engineer with 8+ years of experience building scalable web and mobile ap
 </div>
 
 
-## 📊 GitHub Stats:
+## 📊 GitHub Stats*:
 <div align="center">
   
 ![](https://github-readme-stats.vercel.app/api?username=adphillips2017&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)  
 ![](https://nirzak-streak-stats.vercel.app/?user=adphillips2017&theme=dracula&hide_border=false)
+
+
+*<sub>*Stats do not include private company repositories or contributions from organizations I no longer have access to.*</sub>
 
 </div>
 
